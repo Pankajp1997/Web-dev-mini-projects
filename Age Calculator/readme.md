@@ -37,6 +37,6 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 # I have created Dockerfile into the folder 
 Try to run the following commands 
 
-# docker build -t <<image-name>> . 
+# docker build -t (image-name) . 
 
-# docker run -d -p 8080:80 <<image-name>>
+# docker run -d -p 8080:80 (image-name)
