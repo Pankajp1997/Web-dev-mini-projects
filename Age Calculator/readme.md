@@ -32,3 +32,11 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 <br>
 
 ## Happy Coding!
+
+## Now we need to make the docker image of the Above application. 
+# I have created Dockerfile into the folder 
+Try to run the following commands 
+
+# docker build -t <image-name> . 
+
+# docker run -d -p 8080:80 <image-name>
